@@ -39,6 +39,9 @@ class Shoe
   def condition
     @condition
   end
+  
+  def cobble
+  end
     
     
   
